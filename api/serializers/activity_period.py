@@ -1,5 +1,5 @@
 
-from dance_app.models import activity_period,user
+from user_activity_app.models import activity_period,user
 from rest_framework import serializers
 
 

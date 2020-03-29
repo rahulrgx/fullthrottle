@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class DanceAppConfig(AppConfig):
-    name = 'dance_app'
+    name = 'user_activity_app'
